@@ -1,0 +1,17 @@
+/buyorcart.jsp
+/cart.jsp
+/confirm.jsp
+/goods_detail.jsp
+/goods.jsp
+/orders_detail.jsp
+/orders_submit.jsp
+/orders.jsp
+/pay_success.jsp
+/pay.jsp
+/addGoodTOCart
+/findAllCarts
+/updateNum
+/deleteCart
+/addOrder
+/findAllOrders
+/findOrderByOid

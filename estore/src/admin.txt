@@ -1,0 +1,4 @@
+/add_good.jsp
+/admin_index.jsp
+/goods_admin.jsp
+/addGoodServlet
